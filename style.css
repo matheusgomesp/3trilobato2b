@@ -23,3 +23,21 @@ header {
 .banner p{
     font-size: 1.5em;
 }
+.dropdown{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.menu-btn{
+padding: 10px 20px;
+background-color: black;
+border: none;
+border: 5px;
+color: aliceblue;
+cursor: pointer;
+font-size: 16px;
+transition: background-color 0.3s ease;
+}
+.menu-btn:hover {
+background-color: blueviolet;
+}
