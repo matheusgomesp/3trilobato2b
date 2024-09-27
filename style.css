@@ -7,3 +7,16 @@ header {
     overflow: hidden;
     position: relative;
 }
+.banner{
+    text-align: center;
+    color: aliceblue;
+    animation: shine 4s infinite alternate;
+    position: relative;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(red, green, blue, alpha);
+}
+.banner h1{
+    font-size: 3em;
+    margin-bottom: 10px;
+}
