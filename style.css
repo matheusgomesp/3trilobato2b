@@ -41,3 +41,15 @@ transition: background-color 0.3s ease;
 .menu-btn:hover {
 background-color: blueviolet;
 }
+.menu-list{
+    display: none;
+    list-style: none;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 5px;
+    box-shadow: o 4px 8px rgba(red, green, blue, alpha);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 10;
+}
