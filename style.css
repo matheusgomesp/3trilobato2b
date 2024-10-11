@@ -75,7 +75,7 @@ color: aquamarine;
     background-image: linear-gradient(90deg, #fdff81, #93f2ff);
 }
 100%{
-    background-image: linear-gradient(90deg, #000, #ff0000, #000ff0, #0ff000);
+    background-image: linear-gradient(90deg, #fff56c, #ff39a6, #48b6ff, #42cf7d);
     background-size:  200% 200%;
     background-position: 100%;
 }
