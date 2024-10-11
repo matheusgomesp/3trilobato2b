@@ -63,7 +63,7 @@ background-color: blueviolet;
     text-decoration: none;
     color: black;
     font-size: 16px;
-}
+}s
 .menu-list li a:hover{
 color: aquamarine;
 }
@@ -72,7 +72,7 @@ color: aquamarine;
 }
 @keyframes shine{
 0%{
-    background-image: linear-gradient(90deg, #fdff81, #93f2ff);
+    background-image: linear-gradient(90deg, #000000, #93f2ff);
 }
 100%{
     background-image: linear-gradient(90deg, #42cf7d, #ff39a6, #fff56c, #48b6ff);
